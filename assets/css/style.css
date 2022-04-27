@@ -1776,7 +1776,7 @@ a:active.learn-btn{
 .about-part:before{
 	position:absolute;
 	content:'';
-	background: rgba(115,112,216,.6);
+	background: rgba(20,20,20,.6);
 	height:100%;
 	width:100%;
 	top:0;
