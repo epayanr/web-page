@@ -370,7 +370,7 @@ html,body{
 	display: inline-block;
     background: #f5f5fb;
     padding: 17px 50px;
-    color: #5549af;
+    color: #292929;
     border: 1px solid #f5f5fb;
 	font-size:16px;
 	font-weight:600;
@@ -404,7 +404,7 @@ html,body{
 	z-index:1;
 }
 .single-slide-item.slide-1:before,.single-slide-item.slide-2:before{
-	background:rgba(115,112,215,.6);
+	background:rgba(20,20,20,.6);
 	position:absolute;
 	left:0;
 	top:0;
@@ -1537,7 +1537,7 @@ a:active.learn-btn{
 
 .single-new-project  a.slide-btn:hover{
 	background: #f5f5fb;
-	color: #5549af;
+	color: #292929;
     border: 1px solid #f5f5fb;
 }
 /*-------------------------------------
