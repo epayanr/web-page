@@ -212,12 +212,12 @@ html,body{
 .wrapper-sticky{
 	position: relative;
 	display: inline-block;
-	background: rgba(115,112,216,1);
+	background: rgb(0,0,214);
 }
 
 /* sticky */
 .sticky{
-	background: rgba(115,112,216,1);
+	background: rgb(0,0,214);
 	padding: 10px 0px 0px;
 	height:80px;
 	color: #fff;
