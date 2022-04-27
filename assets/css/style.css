@@ -939,16 +939,20 @@ a:focus.service-btn{
 /*team-box-bg*/
 
 .team-box-bg-1{
-	background: url(../../assets/images/team/team.jpg) no-repeat;
+	background: url(../../assets/images/team/team.jpeg) no-repeat;
+	background-size:contain;
 }
 .team-box-bg-2{
-	background: url(../../assets/images/team/team3.jpg) no-repeat;
+	background: url(../../assets/images/team/team31.jpg) no-repeat;
+	background-size:contain;
 }
 .team-box-bg-3{
-	background: url(../../assets/images/team/team2.jpg) no-repeat;
+	background: url(../../assets/images/team/team21.jpg) no-repeat;
+	background-size:contain;
 }
 .team-box-bg-4{
-	background: url(../../assets/images/team/team3.jpg) no-repeat;
+	background: url(../../assets/images/team/team3.jpeg) no-repeat;
+	background-size:contain;
 }/*team-box-bg*/
 
 
