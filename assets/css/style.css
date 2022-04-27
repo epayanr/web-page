@@ -1759,23 +1759,23 @@ a:active.learn-btn{
 
 .about-part{
 	position:relative;
-	background:url(../../assets/images/about/about-banner.jpg)no-repeat;
+	background:url(../../assets/images/about/about-banner.jpg) no-repeat;
 	background-position:center;
 	background-size:cover;
 	padding: 124px 0 144px;
 	z-index:1;
 }
 .about-part.service-part{
-	background: url(../images/service/service-banner.jpg)no-repeat center;
+	background: url(../images/service/service-banner1.jpg) no-repeat center;
 }
 .about-part.project-part{
-	background: url(../images/project/project-banner.jpg)no-repeat center;
+	background: url(../images/project/project-banner.jpg) no-repeat center;
 }
 .about-part.team-part{
-	background: url(../images/team/team-banner.jpg)no-repeat center;
+	background: url(../images/team/team-banner.jpg) no-repeat center;
 }
 .about-part.blog-part{
-	background: url(../images/blog/blog-banner.jpg)no-repeat center;
+	background: url(../images/blog/blog-banner.jpg) no-repeat center;
 }
 .about-part:before{
 	position:absolute;
