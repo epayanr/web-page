@@ -134,7 +134,7 @@ html,body{
 	color: #888;
 }
 .header-left li :hover {
-	color: #7370d8;
+	color: #292929;
 }/* header-left  */
 
 /* header-right */
@@ -158,7 +158,7 @@ html,body{
 	
 }
 .header-right li a:hover{
-	color:#7370d8;
+	color:#292929;
 }
 .reg a {
     margin-right: 5px;
@@ -691,7 +691,7 @@ a.service-btn,
 a:active.service-btn,
 a:hover.service-btn,
 a:focus.service-btn{
-	color: #7370d8;
+	color: #292929;
     font-size:16px;
 	font-family: 'Poppins', sans-serif;
     text-transform: capitalize;
@@ -864,8 +864,8 @@ a:focus.service-btn{
 	letter-spacing: 1.2px;
 }
 .project-view {
-    background: #7370d8;
-    border: 1px solid #7370d8;
+    background: #292929;
+    border: 1px solid #292929;
     width:185px;
     height:52px;
     line-height: 50px;
@@ -880,7 +880,7 @@ a:focus.service-btn{
     transition: 0.5s ease-in-out;
 }
 .project-view:hover {
-	color: #7370d8;
+	color: #292929;
 	background: transparent;
 }/*project-btn*/
 
@@ -1046,7 +1046,7 @@ a:active.learn-btn{
 
 /*pricing-header */
 .pricing-header{
-	background:#7370d8;
+	background:#292929;
 	padding-top: 25px;
     padding-bottom: 28px;
     -webkit-transition:all 0.3s linear;
@@ -1116,7 +1116,7 @@ a:active.learn-btn{
     opacity: 1;
 }
 .project-btn.pricing-btn a:hover{
-	color:#7370d8;
+	color:#292929;
 }
 
 /*-------------------------------------
@@ -1139,7 +1139,7 @@ a:active.learn-btn{
     height: 100px;
     line-height: 100px;
     border-radius: 50%;
-    border: 2px solid #7370d8;
+    border: 2px solid #292929;
 }
 .testemonial .owl-theme .owl-nav.disabled+.owl-dots {
     padding-bottom: 110px;
@@ -1154,8 +1154,8 @@ a:active.learn-btn{
     border: 2px solid #dfdeff;	
 }
 .testemonial .owl-theme .owl-dots .owl-dot.active span{
-    background: #7370d8;
-    border: 2px solid #7370d8;
+    background: #292929;
+    border: 2px solid #292929;
 }
 
 /*home1-testm-txt*/
@@ -1170,7 +1170,7 @@ a:active.learn-btn{
     padding: 15px 0 30px;
 }
 .home1-testm-txt h3 a{
-	color: #7370d8;
+	color: #292929;
 	font-size: 24px;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
@@ -1194,7 +1194,7 @@ a:active.learn-btn{
 		12. Client
 --------------------------------------*/
 .clients{
-	background: #7370d8;
+	background: #292929;
 	padding: 53px 0 0px;
 }
 .clients-area {
@@ -1339,7 +1339,7 @@ a:active.learn-btn{
 	position: relative;
 }
 .contact:before{
-	background:rgba(115,112,215,.85);
+	background:rgba(20,20,20,.85);
 	position:absolute;
 	left:0;
 	top:0;
@@ -1398,10 +1398,10 @@ a:active.learn-btn{
 	display:flex;
 	align-items:center;
 	justify-content:center;
-	background: #7370d8;
+	background: #292929;
 	height:50px;
 	width: 195px;
-	border:1px solid #7370d8;
+	border:1px solid #292929;
 	text-transform:uppercase;
 	font-family: 'Poppins', sans-serif;
 	margin-top: 3px;
@@ -1429,9 +1429,9 @@ a:active.learn-btn{
 }
 
 .single-contact-btn:hover button.contact-btn {
-	color:#7370d8;
+	color:#292929;
 	background:#fff;
-	border:1px solid #7370d8;
+	border:1px solid #292929;
 }
 
 /*--contct button--*/
@@ -1507,7 +1507,7 @@ a:active.learn-btn{
 --------------------------------------*/
 .new-project {
     padding: 72px 0 72px;
-    background: #7370d8;
+    background: #292929;
 }
 .single-new-project h3{
 	color: #fff;
@@ -1545,7 +1545,7 @@ a:active.learn-btn{
 --------------------------------------*/
 .hm-footer{
     padding-bottom:68px;
-    background: #212135;
+    background: #141414;
 }
 .hm-footer-details {
     margin-top: 120px;
@@ -1597,7 +1597,7 @@ a:active.learn-btn{
     transition: all 0.2s linear;
 }
 .hm-foot-icon ul li>a>i {
-    color: #212135;
+    color: #141414;
 }
 .hm-foot-icon ul li:hover {
 	background: #fff;
@@ -1662,7 +1662,7 @@ a:active.learn-btn{
 .foot-email-subscribe button{
     width:65px;
     height:65px;
-    background: #7370d8;
+    background: #292929;
 	font-size:14px;
     color: #fff;
     text-transform: uppercase;
@@ -1689,8 +1689,9 @@ a:active.learn-btn{
 	-o-transition:all 0.2s linear;
     transition: all 0.2s linear;
 }
+/* Hover para Noticias Pie de Pagina */
 .hm-para-news a:hover {
-	color: #7370d8;
+	color: #ffffff;
 }
 .footer-line {
     padding: 30px 0 35px;
@@ -1709,7 +1710,7 @@ a:active.learn-btn{
 		17. Footer- copyright
 --------------------------------------*/
 .footer-copyright {
-	background:#1a1a2a;
+	background:#1c1c1c;
 	padding: 30px 0 35px;
 }
 .foot-copyright{
@@ -1775,7 +1776,7 @@ a:active.learn-btn{
 .about-part:before{
 	position:absolute;
 	content:'';
-	background: rgba(115,112,216,.6);
+	background: rgba(20,20,20,.6);
 	height:100%;
 	width:100%;
 	top:0;
@@ -1890,7 +1891,7 @@ a:active.learn-btn{
 }
 .timeline-content  span>i{
     display: inline-block;
-	color: #7370d8;
+	color: #292929;
 	position: relative;
     top: 15px;
     left: -9px;
@@ -2315,8 +2316,8 @@ a:active.learn-btn{
     cursor: pointer;
     z-index:15;
     color: #fff;
-    background:#7370d8;
-	border:1px solid #7370d8;
+    background:#292929;
+	border:1px solid #292929;
 	border-radius:5px;
 	-webkit-transition: .5s; 
 	-moz-transition:.5s; 
@@ -2326,9 +2327,9 @@ a:active.learn-btn{
 	z-index: 2;
 }
 #scroll-Top  .return-to-top:hover {
-    background:#7370d8;
+    background:#292929;
     color: #fff;
-	border:1px solid #7370d8;
+	border:1px solid #292929;
 	border-radius:50%;
 }
 
